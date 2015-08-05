@@ -1,4 +1,4 @@
-Passport-testshib
+passport-testshib
 =================
 
 _Passport authentication strategy that works with testshib.org_
