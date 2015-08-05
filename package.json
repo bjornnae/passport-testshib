@@ -1,0 +1,30 @@
+{
+    "name": "passport-testshib",
+    "version": "1.0.0",
+    "license": "MIT",
+    "keywords": [
+        "passport",
+        "saml",
+        "shibboleth",
+        "sso",
+        "testshib"
+    ],
+    "description": "Passport authentication strategy for testshib.org",
+    "homepage": "https://github.com/ucsf-ckm/passport-testshib",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ucsf-ckm/passport-testshib"
+    },
+    "author": {
+        "name": "Rich Trott",
+        "email": "rtrott@gmail.com"
+    },
+    "bugs": "https://github.com/ucsf-ckm/passport-testshib/issues",
+    "main": "index.js",
+    "dependencies": {
+        "passport-saml": ">=0.10.0"
+    },
+    "engines": {
+        "node": ">=0.10.28"
+    }
+}

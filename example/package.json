@@ -1,0 +1,14 @@
+{
+    "name": "passport-testshib-example",
+    "version": "1.0.0",
+    "dependencies": {
+        "passport-testshib": "*",
+        "body-parser": "*",
+        "chalk": "*",
+        "cookie-parser": "*",
+        "express": "*",
+        "express-session": "*",
+        "morgan": "*",
+        "passport": "*"
+    }
+}
